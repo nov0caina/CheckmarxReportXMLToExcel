@@ -159,29 +159,29 @@ namespace CheckmarxXMLReportToExcel.Negocio
 
                         if (nodeChildQuery.Attributes["name"].Value.Trim() != null)
                         {
-                            cCamposReporte.Tipo = nodeChildQuery.Attributes["name"].Value.Trim();
+                            cCamposReporte.Type = nodeChildQuery.Attributes["name"].Value.Trim();
                         }
 
-                        cCamposReporte.Estado = "Pendiente";
+                        cCamposReporte.Condition = "Pendiente";
                         
-                        cCamposReporte.Vulnerabilidad = iConteo;
+                        cCamposReporte.Vulnerability = iConteo;
 
                         nodeChildResult = nodoResult.Item(j);
 
                         if(nodeChildResult.Attributes["Severity"].Value.Trim() != null)
                         {
-                            cCamposReporte.Severidad = nodeChildResult.Attributes["Severity"].Value.Trim();
+                            cCamposReporte.Severity = nodeChildResult.Attributes["Severity"].Value.Trim();
                         }
                         if (nodeChildResult.Attributes["FileName"].Value.Trim() != null)
                         {
-                            cCamposReporte.NombreArchivo = nodeChildResult.Attributes["FileName"].Value.Trim();
+                            cCamposReporte.FileName = nodeChildResult.Attributes["FileName"].Value.Trim();
                         }
                         if (nodeChildResult.Attributes["DeepLink"].Value.Trim() != null)
                         {
-                            cCamposReporte.Ruta = nodeChildResult.Attributes["DeepLink"].Value.Trim();
+                            cCamposReporte.Path = nodeChildResult.Attributes["DeepLink"].Value.Trim();
                         }
 
-                        if (cCamposReporte.Tipo != string.Empty && cCamposReporte.NombreArchivo != string.Empty && cCamposReporte.Ruta != string.Empty)
+                        if (cCamposReporte.Type != string.Empty && cCamposReporte.FileName != string.Empty && cCamposReporte.Path != string.Empty)
                         {
                             listReporte.Add(cCamposReporte);
                         }
