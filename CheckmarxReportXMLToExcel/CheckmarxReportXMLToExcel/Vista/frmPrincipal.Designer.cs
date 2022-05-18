@@ -53,7 +53,7 @@
             this.btnSelecionar.Name = "btnSelecionar";
             this.btnSelecionar.Size = new System.Drawing.Size(147, 55);
             this.btnSelecionar.TabIndex = 1;
-            this.btnSelecionar.Text = "Seleccionar";
+            this.btnSelecionar.Text = "Select";
             this.btnSelecionar.UseVisualStyleBackColor = true;
             this.btnSelecionar.Click += new System.EventHandler(this.btnSelecionar_Click);
             // 
@@ -69,7 +69,7 @@
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(112, 35);
             this.btnLimpiar.TabIndex = 2;
-            this.btnLimpiar.Text = "Limpiar";
+            this.btnLimpiar.Text = "Clear";
             this.btnLimpiar.UseVisualStyleBackColor = true;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
