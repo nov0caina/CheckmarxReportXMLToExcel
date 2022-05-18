@@ -10,30 +10,30 @@ namespace CheckmarxXMLReportToExcel.Entidades
     {
         public cCamposDeReporteExcel()
         {
-            this.Vulnerabilidad = 0;           
-            this.Estado = string.Empty;       
-            this.Severidad = string.Empty;    
-            this.NombreArchivo = string.Empty;
-            this.Tipo = string.Empty;         
-            this.Asignada = string.Empty;     
-            this.Ruta = string.Empty;         
-            this.Solucion = string.Empty;      
+            this.Vulnerability = 0;           
+            this.Condition = string.Empty;       
+            this.Severity = string.Empty;    
+            this.FileName = string.Empty;
+            this.Type = string.Empty;         
+            this.Assigned = string.Empty;     
+            this.Path = string.Empty;         
+            this.Solution = string.Empty;      
         }
 
-        public int Vulnerabilidad { get; set; }
+        public int Vulnerability { get; set; }
 
-        public string Estado { get; set; }
+        public string Condition { get; set; }
 
-        public string Severidad { get; set; }
+        public string Severity { get; set; }
 
-        public string NombreArchivo { get; set; }
+        public string FileName { get; set; }
 
-        public string Tipo { get; set; }
+        public string Type { get; set; }
 
-        public string Asignada { get; set; }
+        public string Assigned { get; set; }
 
-        public string Ruta { get; set; }
+        public string Path { get; set; }
 
-        public string Solucion { get; set; }
+        public string Solution { get; set; }
     }
 }
