@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckmarxXMLReportToExcel", "CheckmarxReportXMLToExcel\CheckmarxXMLReportToExcel.csproj", "{BB403235-B718-412F-95F6-BD84FFC21D62}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckmarxReportXMLToExcel Installer", "CheckmarxReportXMLToExcel Installer\CheckmarxReportXMLToExcel Installer.vdproj", "{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Debug|Any CPU.ActiveCfg = Release
+		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA95F04-97CB-4FB4-A1AE-08FA241CBF59}
+	EndGlobalSection
+EndGlobal
