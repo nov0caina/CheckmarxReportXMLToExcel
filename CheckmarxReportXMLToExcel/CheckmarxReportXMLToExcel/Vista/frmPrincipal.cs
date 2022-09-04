@@ -12,9 +12,9 @@ using CheckmarxXMLReportToExcel.Entidades;
 
 namespace CheckmarxXMLReportToExcel
 {
-    public partial class frmPrincipal : Form
+    public partial class FrmPrincipal : Form
     {
-        public frmPrincipal()
+        public FrmPrincipal()
         {
             InitializeComponent();
         }
@@ -31,19 +31,19 @@ namespace CheckmarxXMLReportToExcel
         bool bArchivoSeleccionado = false;
         bool bExcelGenerado = false;
 
-        private void btnSelecionar_Click(object sender, EventArgs e)
+        private void BtnSelecionar_Click(object sender, EventArgs e)
         {                                    
             if (bArchivoSeleccionado)
             {
-                loadXML();
+                LoadXML();
             }
             else
             {
-                selectXML();
+                SelectXML();
             }            
         }
 
-        private void loadXML()
+        private void LoadXML()
         {
             bArchivoSeleccionado = false;
             try
@@ -73,7 +73,7 @@ namespace CheckmarxXMLReportToExcel
                     bExcelGenerado = convertToExcel.writeAndSaveExcel(dataTable, sPathDestinoExcel, sNombreDeArchivo);
                 }
 
-                showMessageBox(bExcelGenerado);
+                ShowMessageBox(bExcelGenerado);
             }
             catch (Exception ex)
             {
@@ -81,7 +81,7 @@ namespace CheckmarxXMLReportToExcel
             }
         }
 
-        private void selectXML()
+        private void SelectXML()
         {
             openFileDialog.InitialDirectory = "C:\\";
             openFileDialog.Filter = "XML files (*.xml)|*.xml";
@@ -114,12 +114,12 @@ namespace CheckmarxXMLReportToExcel
             }
         }
 
-        private void btnLimpiar_Click(object sender, EventArgs e)
+        private void BtnLimpiar_Click(object sender, EventArgs e)
         {
-            limpiar();
+            Limpiar();
         }
 
-        private void limpiar() 
+        private void Limpiar() 
         {
             bArchivoSeleccionado = false;
             txtbPath.Text = "Select a Checkmarx XML report";
@@ -127,7 +127,7 @@ namespace CheckmarxXMLReportToExcel
             btnLimpiar.Enabled = false;
         }
 
-        private void showMessageBox(bool sHecho)
+        private void ShowMessageBox(bool sHecho)
         {
             if (sHecho)
             {
@@ -135,7 +135,7 @@ namespace CheckmarxXMLReportToExcel
 
                 if (Result == DialogResult.OK)
                 {
-                    limpiar();
+                    Limpiar();
                 }
             }
             else
@@ -145,7 +145,7 @@ namespace CheckmarxXMLReportToExcel
             
         }
 
-        private void txtbPath_KeyPress(object sender, KeyPressEventArgs e)
+        private void TxtbPath_KeyPress(object sender, KeyPressEventArgs e)
         {
             e.Handled = true;
         }

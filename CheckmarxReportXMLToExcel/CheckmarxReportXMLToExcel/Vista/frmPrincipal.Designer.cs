@@ -1,6 +1,6 @@
 ﻿namespace CheckmarxXMLReportToExcel
 {
-    partial class frmPrincipal
+    partial class FrmPrincipal
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPrincipal));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPrincipal));
             this.txtbPath = new System.Windows.Forms.TextBox();
             this.btnSelecionar = new System.Windows.Forms.Button();
             this.openFileDialog = new System.Windows.Forms.OpenFileDialog();
@@ -42,7 +42,7 @@
             this.txtbPath.Name = "txtbPath";
             this.txtbPath.Size = new System.Drawing.Size(628, 26);
             this.txtbPath.TabIndex = 0;
-            this.txtbPath.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtbPath_KeyPress);
+            this.txtbPath.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtbPath_KeyPress);
             // 
             // btnSelecionar
             // 
@@ -55,7 +55,7 @@
             this.btnSelecionar.TabIndex = 1;
             this.btnSelecionar.Text = "Select";
             this.btnSelecionar.UseVisualStyleBackColor = true;
-            this.btnSelecionar.Click += new System.EventHandler(this.btnSelecionar_Click);
+            this.btnSelecionar.Click += new System.EventHandler(this.BtnSelecionar_Click);
             // 
             // openFileDialog
             // 
@@ -71,7 +71,7 @@
             this.btnLimpiar.TabIndex = 2;
             this.btnLimpiar.Text = "Clear";
             this.btnLimpiar.UseVisualStyleBackColor = true;
-            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
+            this.btnLimpiar.Click += new System.EventHandler(this.BtnLimpiar_Click);
             // 
             // frmPrincipal
             // 
