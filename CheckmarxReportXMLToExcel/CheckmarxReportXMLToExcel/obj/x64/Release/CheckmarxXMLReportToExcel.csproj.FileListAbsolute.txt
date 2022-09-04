@@ -19,6 +19,8 @@ C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLTo
 C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.exe
 C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.pdb
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.exe.config
 C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.exe
 C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.pdb
@@ -41,3 +43,4 @@ C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\Check
 C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.pdb
 =======
 >>>>>>> ca9bffbdfa5a794519447a6bcc95041d48b9e995
+>>>>>>> a0d543b788e7abfda4d69da33c66ae77d78ee94c
