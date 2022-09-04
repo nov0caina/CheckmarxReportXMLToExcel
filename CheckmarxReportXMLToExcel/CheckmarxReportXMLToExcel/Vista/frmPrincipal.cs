@@ -116,6 +116,11 @@ namespace CheckmarxXMLReportToExcel
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
+            limpiar();
+        }
+
+        private void limpiar() 
+        {
             bArchivoSeleccionado = false;
             txtbPath.Text = "Select a Checkmarx XML report";
             btnSelecionar.Text = "Select";
@@ -126,7 +131,12 @@ namespace CheckmarxXMLReportToExcel
         {
             if (sHecho)
             {
-                MessageBox.Show("The Excel report has been successfully generated on this path: " + sPathDestinoExcel + "\\" + sNombreDeArchivo + ".xls", ":D", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                var Result = MessageBox.Show("The Excel report has been successfully generated on this path: " + sPathDestinoExcel + "\\" + sNombreDeArchivo + ".xls", ":D", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                if (Result == DialogResult.OK)
+                {
+                    limpiar();
+                }
             }
             else
             {

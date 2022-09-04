@@ -31,6 +31,7 @@ namespace CheckmarxXMLReportToExcel.Negocio
                 oSLDocument.ApplyNamedCellStyle("F1", SLNamedCellStyleValues.Heading4);
                 oSLDocument.ApplyNamedCellStyle("G1", SLNamedCellStyleValues.Heading4);
                 oSLDocument.ApplyNamedCellStyle("H1", SLNamedCellStyleValues.Heading4);
+                oSLDocument.ApplyNamedCellStyle("I1", SLNamedCellStyleValues.Heading4);
                 
                 oSLDocument.ImportDataTable(1, 1, dataTable, true);
                 oSLDocument.SaveAs(sPathDestinoExcel + "\\" + sNombreDeArchivo + ".xlsx");
@@ -175,6 +176,10 @@ namespace CheckmarxXMLReportToExcel.Negocio
                         if (nodeChildResult.Attributes["FileName"].Value.Trim() != null)
                         {
                             cCamposReporte.FileName = nodeChildResult.Attributes["FileName"].Value.Trim();
+                        }
+                        if (nodeChildResult.Attributes["Line"].Value.Trim() != null)
+                        {
+                            cCamposReporte.Line = nodeChildResult.Attributes["Line"].Value.Trim();
                         }
                         if (nodeChildResult.Attributes["DeepLink"].Value.Trim() != null)
                         {
