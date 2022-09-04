@@ -5,20 +5,30 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckmarxXMLReportToExcel", "CheckmarxReportXMLToExcel\CheckmarxXMLReportToExcel.csproj", "{BB403235-B718-412F-95F6-BD84FFC21D62}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckmarxReportXMLToExcel Installer", "CheckmarxReportXMLToExcel Installer\CheckmarxReportXMLToExcel Installer.vdproj", "{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckmarxXMLReportToExcel Installer", "CheckmarxReportXMLToExcel Installer\CheckmarxReportXMLToExcel Installer.vdproj", "{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|Any CPU.Build.0 = Debug|x64
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|x64.ActiveCfg = Release|x64
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Debug|x64.Build.0 = Release|x64
 		{BB403235-B718-412F-95F6-BD84FFC21D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB403235-B718-412F-95F6-BD84FFC21D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Release|x64.ActiveCfg = Release|x64
+		{BB403235-B718-412F-95F6-BD84FFC21D62}.Release|x64.Build.0 = Release|x64
 		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Debug|Any CPU.ActiveCfg = Release
+		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Debug|x64.ActiveCfg = Release
+		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Debug|x64.Build.0 = Release
 		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Release|Any CPU.ActiveCfg = Release
+		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Release|x64.ActiveCfg = Release
+		{850F3FF0-2029-431D-AE72-AB24ACE6C2CD}.Release|x64.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

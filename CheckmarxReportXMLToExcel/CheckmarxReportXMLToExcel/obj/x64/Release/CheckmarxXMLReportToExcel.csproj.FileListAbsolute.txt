@@ -1,0 +1,43 @@
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.exe.config
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.exe
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.pdb
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\DocumentFormat.OpenXml.dll
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\SpreadsheetLight.dll
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.Drawing.Common.dll
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.IO.Packaging.dll
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\DocumentFormat.OpenXml.xml
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\SpreadsheetLight.xml
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.Drawing.Common.xml
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.IO.Packaging.xml
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.AssemblyReference.cache
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.frmPrincipal.resources
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.Properties.Resources.resources
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.GenerateResource.cache
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.CoreCompileInputs.cache
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.CopyComplete
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.exe
+C:\Users\Abel\OneDrive\Escritorio\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.pdb
+<<<<<<< HEAD
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.exe.config
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.exe
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\CheckmarxReportXMLToExcel.pdb
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\DocumentFormat.OpenXml.dll
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\SpreadsheetLight.dll
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.Drawing.Common.dll
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.IO.Packaging.dll
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\DocumentFormat.OpenXml.xml
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\SpreadsheetLight.xml
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.Drawing.Common.xml
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\bin\x64\Release\System.IO.Packaging.xml
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.AssemblyReference.cache
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.frmPrincipal.resources
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.Properties.Resources.resources
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.GenerateResource.cache
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.CoreCompileInputs.cache
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxXMLReportToExcel.csproj.CopyComplete
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.exe
+C:\Users\Abel\OneDrive\Escritorio\New folder (2)\CheckmarxXmlReportToExcel\CheckmarxReportXMLToExcel\CheckmarxReportXMLToExcel\obj\x64\Release\CheckmarxReportXMLToExcel.pdb
+=======
+>>>>>>> ca9bffbdfa5a794519447a6bcc95041d48b9e995
