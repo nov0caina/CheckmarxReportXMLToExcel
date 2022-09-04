@@ -15,7 +15,8 @@ namespace CheckmarxXMLReportToExcel.Entidades
             this.Severity = string.Empty;    
             this.FileName = string.Empty;
             this.Type = string.Empty;         
-            this.Assigned = string.Empty;     
+            this.Assigned = string.Empty;
+            this.Line = string.Empty;
             this.Path = string.Empty;         
             this.Solution = string.Empty;      
         }
@@ -31,6 +32,8 @@ namespace CheckmarxXMLReportToExcel.Entidades
         public string Type { get; set; }
 
         public string Assigned { get; set; }
+
+        public string Line { get; set; }
 
         public string Path { get; set; }
 
